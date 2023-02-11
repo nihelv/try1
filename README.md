@@ -37,10 +37,13 @@ last update <23.02.11><br>
 모처럼 '하고 싶어졌'으니까 맨땅에 머리를 박아보지 뭐..<br>
 하다가 아 넘 아파! 하고 창고행이 될 수도 있음.<br>
 <br>
+
 ***
+
 <br>
 어쩐지 오늘은 참고페이지 찾고 리드미 수정하다가 날 새겠는데..<br>
 그리고 문득 나는 프로그램을 만들 줄 모른다! 고 하면 안된다는 걸 깨달았다.<br>
 영어를 사용하는 사람한테 '나는 영어를 잘 못한다'고 말하려고 'I can't speak english'라고 말하면<br>
 상대방이 'Oh, You are good at English!' 한다는 거랑 비슷한 상황인거다.<br><br>
+
 **I can run Python. but I'm not sure I'm skilled Python.**
